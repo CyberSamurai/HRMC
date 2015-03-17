@@ -4,6 +4,10 @@
 # Date:  03/10/2015
 # Description: To create TAG file for processing non-ascii files in EDM
 # Revision History: 
+#
+# TODO: 
+# 1. Add parameter support for source & destination.
+
 
 # Note, the IBEX_Chart batch file is copying these images from ibex server to our source directory.
 
