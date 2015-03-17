@@ -1,0 +1,12 @@
+Original purpose of this script was to monitor a directory and batch print any
+ text files that were dropped into it.  The user wanted it packaged as an .exe
+ and was going to install it as a service on a windows box.  That is why I set
+ it up as a permanent 'while loop' - it will run indefinitely until the 
+service is stopped.
+
+Right now there is no argument passing for changing the directory or specifying
+what printer is used... 
+
+Directory is a variable at the beginning of the script...
+
+Printer is configured to grab the default printer...

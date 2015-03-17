@@ -1,0 +1,4 @@
+TODO List for Printmon.py
+
+1. Add argument capabilities via sys.argv or argparse
+2. Add optional alerting functionality if a file fails to print
